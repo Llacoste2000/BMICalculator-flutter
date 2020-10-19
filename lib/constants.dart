@@ -12,3 +12,13 @@ const textStyles = TextStyle(
   color: Colors.white,
   fontWeight: FontWeight.w100,
 );
+
+const textStylesTitle = TextStyle(
+  fontWeight: FontWeight.bold,
+  fontSize: 72.0,
+);
+
+const textStylesTitleH2 = TextStyle(
+  fontWeight: FontWeight.normal,
+  fontSize: 32.0,
+);
